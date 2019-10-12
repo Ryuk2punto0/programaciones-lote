@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Menu.unity
     guid: 0cbdbea23ca3f5a4c94da2e4988cc66c
+  - enabled: 1
+    path: Assets/Scenes/LOTE.unity
+    guid: 4f21aa3de1050224ab928192696184b1
   m_configObjects: {}
