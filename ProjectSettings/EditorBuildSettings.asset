@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LOTE.unity
     guid: 4f21aa3de1050224ab928192696184b1
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: 577c83ef0d83f824d8e6a39771b52582
   m_configObjects: {}

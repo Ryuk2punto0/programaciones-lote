@@ -25,6 +25,6 @@ public class Menu : MonoBehaviour
 
     public void CambiareScena()
     {
-        SceneManager.LoadScene("Instrucciones", LoadSceneMode.Single);
+        SceneManager.LoadScene("Instructions", LoadSceneMode.Single);
     }
 }
