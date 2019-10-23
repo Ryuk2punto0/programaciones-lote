@@ -22,7 +22,7 @@ public class Instrucciones : MonoBehaviour
 
     public void CambiareScena()
     {
-        SceneManager.LoadScene("LOTE", LoadSceneMode.Single);
+        SceneManager.LoadScene("Selection", LoadSceneMode.Single);
     }
 }
 
